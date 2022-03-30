@@ -263,6 +263,7 @@ DEPENDENCIES
   net-ssh (>= 6.0.2)
   puma (~> 5.0)
   rails (~> 7.0.2, >= 7.0.2.3)
+  rake (>= 0.9.2)
   redis (~> 4.0)
   selenium-webdriver
   sprockets-rails
